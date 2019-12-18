@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>571.jpeg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\train\571.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>138</ymin>
+			<xmax>194</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

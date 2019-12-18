@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>images (8).jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\train2\New folder\images (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>88</ymin>
+			<xmax>254</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

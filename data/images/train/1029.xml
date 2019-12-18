@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tail_lights</folder>
+	<filename>1029.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\folder\tail_lights\1029.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>side_mirror</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>29</ymin>
+			<xmax>193</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

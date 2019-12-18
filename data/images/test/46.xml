@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>46.jpeg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\test1\46.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door_scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>100</ymin>
+			<xmax>269</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

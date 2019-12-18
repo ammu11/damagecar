@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images - 2019-09-03T081945.317.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\train\images - 2019-09-03T081945.317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>24</ymin>
+			<xmax>220</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

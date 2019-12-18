@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>390.jpeg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\test1\390.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>41</ymin>
+			<xmax>249</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

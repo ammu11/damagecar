@@ -1,0 +1,26 @@
+<annotation>
+	<folder>side_mirror</folder>
+	<filename>1314.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\folder\side_mirror\1314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>side_mirror</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>28</ymin>
+			<xmax>218</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

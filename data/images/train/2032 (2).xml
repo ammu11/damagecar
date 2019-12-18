@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2032 (2).jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\train\2032 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>105</ymin>
+			<xmax>246</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>233</ymin>
+			<xmax>233</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

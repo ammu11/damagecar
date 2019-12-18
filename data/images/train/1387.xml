@@ -1,0 +1,26 @@
+<annotation>
+	<folder>door_scratch</folder>
+	<filename>1387.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\folder\door_scratch\1387.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>79</ymin>
+			<xmax>252</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

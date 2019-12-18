@@ -1,0 +1,26 @@
+<annotation>
+	<folder>head_lights</folder>
+	<filename>996.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\folder\head_lights\996.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front_windshield_glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>39</ymin>
+			<xmax>250</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

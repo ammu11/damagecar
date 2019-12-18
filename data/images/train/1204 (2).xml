@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumper</folder>
+	<filename>1204 (2).jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\folder\bumper\1204 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>222</ymin>
+			<xmax>212</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

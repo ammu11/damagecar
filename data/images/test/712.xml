@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>712.jpg</filename>
+	<path>D:\tensorflow\models\research\object_detection\images\test1\712.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumper_scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>165</ymin>
+			<xmax>188</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>
