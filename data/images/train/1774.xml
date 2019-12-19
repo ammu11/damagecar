@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test1</folder>
+	<folder>train</folder>
 	<filename>1774.jpg</filename>
-	<path>D:\tensorflow\models\research\object_detection\images\test1\1774.jpg</path>
+	<path>D:\tensorflow\models\research\object_detection\images\train\1774.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>door</name>
+		<name>boonet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>29</xmin>
-			<ymin>169</ymin>
-			<xmax>102</xmax>
-			<ymax>227</ymax>
+			<xmin>49</xmin>
+			<ymin>27</ymin>
+			<xmax>256</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>166</ymin>
+			<xmax>239</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tail_lights</folder>
+	<folder>train</folder>
 	<filename>1532.jpg</filename>
-	<path>D:\tensorflow\models\research\object_detection\images\folder\tail_lights\1532.jpg</path>
+	<path>D:\tensorflow\models\research\object_detection\images\train\1532.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>door_Scratch</name>
+		<name>door_scratch</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

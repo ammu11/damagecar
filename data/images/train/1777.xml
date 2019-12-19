@@ -1,7 +1,7 @@
 <annotation>
-	<folder>bumper</folder>
+	<folder>train</folder>
 	<filename>1777.jpg</filename>
-	<path>D:\tensorflow\models\research\object_detection\images\folder\bumper\1777.jpg</path>
+	<path>D:\tensorflow\models\research\object_detection\images\train\1777.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>french onion soup</name>
+		<name>front_windshield_glass</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
